@@ -1,0 +1,15 @@
+.btn-primary{
+    padding: 20px;
+    background: transparent;
+    text-shadow: 1px 1px 1px #202020;
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    border: 2px solid lightblue;
+    color: lightblue;
+    margin: 10px;
+    cursor: pointer;
+    &:hover{
+        border: 2px solid rgb(253, 255, 250);
+
+    }
+}
